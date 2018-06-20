@@ -1,4 +1,4 @@
-# WifiWizard2 - 3.0
+# WifiWizard2 - 3.1.0
 
 WifiWizard2 enables Wifi management for both Android and iOS applications within Cordova/Phonegap projects.
 
